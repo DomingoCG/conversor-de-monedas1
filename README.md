@@ -15,3 +15,4 @@ Tecnologías utilizadas:
 1. Java
 2. API de ExchangeRate
 3. Biblioteca Gson 2.13.1
+4. IDE IntelliJ
