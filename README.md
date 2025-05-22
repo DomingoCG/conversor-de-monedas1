@@ -8,7 +8,7 @@ Esta aplicación permite hacer la conversión entre distintas monedas ejecutando
 Se ha diseñado un menú con 6 opciones de cambio de monedas y una opción para salir del sistema. También tiene una opción por defecto para solicitar al usuario que ingrese una opción válida cuando este digite un número distinto a los disponibles en el menú. 
 <br>Menú de opciones mostrado al usuario:
 <em>1. Dolar americano a peso argentino.
-2. Pesos argentinos a dolar americano.
+2. Peso argentino a dolar americano.
 3. Dolar americano a real brasileño.
 4. Real brasileño a dolar americano.
 5. Dolar americano a peso colombiano.
