@@ -27,3 +27,4 @@ Se ha diseñado un menú con 6 opciones de cambio de monedas y una opción para 
 2. API de ExchangeRate
 3. Biblioteca Gson 2.13.1
 4. IDE IntelliJ
+5. Trello
